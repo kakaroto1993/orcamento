@@ -2,3 +2,9 @@
 /orcamento.db
 /temp_sinapi_composicoes.xlsx
 /temp_sinapi_insumos.xlsx
+venv/
+__pycache__/
+sinapi/
+.env
+venv/
+orcamento.db
