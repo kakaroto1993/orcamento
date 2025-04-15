@@ -1,0 +1,4 @@
+sinapi/
+.env
+venv/
+orcamento.db
